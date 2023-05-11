@@ -1,7 +1,6 @@
 package com.example.backend.entity;
 
 import lombok.Data;
-
 import jakarta.persistence.*;
 
 @Entity
